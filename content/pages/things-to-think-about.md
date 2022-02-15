@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Things to Think About
 uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 ---
