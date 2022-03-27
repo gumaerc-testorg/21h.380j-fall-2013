@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Things to Think About
 parent_type: CourseSection
+parent_uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 resourcetype: Document
 title: 'Things to Think About: Changes in the Land'
 uid: 8f5fd59f-8073-5004-44d1-4f9bb79389d5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Things to Think About
 parent_type: CourseSection
+parent_uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 resourcetype: Document
 title: 'Things to think About: Hunting'
 uid: 4bb401e3-6dd6-3bda-8e84-91af12b82da2

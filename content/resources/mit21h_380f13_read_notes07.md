@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Things to Think About
 parent_type: CourseSection
+parent_uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 resourcetype: Document
 title: 'Things to think About: Animal Protection'
 uid: b8b6eaa6-6d15-fc61-af8d-afb4ab06671e

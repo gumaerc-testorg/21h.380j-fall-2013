@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Things to Think About
 parent_type: CourseSection
+parent_uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 resourcetype: Document
 title: 'Things to think About: Meat (or Not)'
 uid: 4af9e8cb-2ffa-2ac2-03eb-27a5c741719b

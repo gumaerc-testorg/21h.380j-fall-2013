@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Things to Think About
 parent_type: CourseSection
+parent_uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 resourcetype: Document
 title: 'Things to Think About: Field Observation and Ethology'
 uid: 8cd1c18f-3c71-b8ad-66ab-6a801e4fe7a7
