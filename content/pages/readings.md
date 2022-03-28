@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 9bf9b92f-1f78-2ed7-d94a-6f2cb757ccc6
 ---
 
-Several of the readings have associated question sets to think about for class discussion. Please see [Things to Think About]({{< baseurl >}}/pages/things-to-think-about) for these questions.
+Several of the readings have associated question sets to think about for class discussion. Please see {{< resource_link 580183fd-2a52-0727-5d9e-b486ee17fabe "Things to Think About" >}} for these questions.
 
 \[Capek\] = Capek, Karl. _War With the Newts_. Catbird Press, 1990.
 
@@ -70,7 +71,7 @@ Carruthers, Jane. "'[Wilding the Farm or Farming the Wild?' The Evolution of Sci
 
 Cioc, Mark. "Introduction," Chapter 1, and Appendix A in _The Game of Conservation: International Treaties to Protect the World's Migratory Animals._ Ohio University Press, 2009. ISBN: 9780821418673.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Colonial Animal Protection Laws. (PDF - 1.5 MB)]({{< baseurl >}}/resources/mit21h_380f13_laws)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 1fd82bd6-3bec-e5cd-67b2-08401012f180 "Colonial Animal Protection Laws. (PDF - 1.5 MB)" >}}
 
 
 {{< tdclose >}}
