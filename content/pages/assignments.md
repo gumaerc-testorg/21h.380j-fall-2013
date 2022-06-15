@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the weekly response papers and
+  research paper required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: eb3c97a2-6ed7-5521-db85-22c9d3c28160
 ---

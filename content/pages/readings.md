@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and information
+  on course textbooks.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 9bf9b92f-1f78-2ed7-d94a-6f2cb757ccc6
 ---
 
-Several of the readings have associated question sets to think about for class discussion. Please see {{< resource_link 580183fd-2a52-0727-5d9e-b486ee17fabe "Things to Think About" >}} for these questions.
+Several of the readings have associated question sets to think about for class discussion. Please see {{% resource_link 580183fd-2a52-0727-5d9e-b486ee17fabe "Things to Think About" %}} for these questions.
 
 \[Capek\] = Capek, Karl. _War With the Newts_. Catbird Press, 1990.
 
@@ -71,7 +72,7 @@ Carruthers, Jane. "'[Wilding the Farm or Farming the Wild?' The Evolution of Sci
 
 Cioc, Mark. "Introduction," Chapter 1, and Appendix A in _The Game of Conservation: International Treaties to Protect the World's Migratory Animals._ Ohio University Press, 2009. ISBN: 9780821418673.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 1fd82bd6-3bec-e5cd-67b2-08401012f180 "Colonial Animal Protection Laws. (PDF - 1.5 MB)" >}}
+{{% resource_link 1fd82bd6-3bec-e5cd-67b2-08401012f180 "Colonial Animal Protection Laws. (PDF - 1.5 MB)" %}}
 
 
 {{< tdclose >}}
@@ -91,7 +92,7 @@ Domestication and Breeding
 
 Coppinger, Raymond, and Lorna Coppinger. Chapter 1 in _Dogs: A New Understanding of Canine Origin, Behavior, & Evolution_. University of Chicago Press, 2002. ISBN: 9780226115634.
 
-Orlans, Barbara. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries." (PDF)](https://www.academia.edu/14032108/Turbo_Cows_Producing_a_Competitive_Animal_in_the_Nineteenth_and_Early_Twentieth_Century) _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
+Orlans, Barbara. ["Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries." (PDF)](https://www.academia.edu/14032108/Turbo_Cows_Producing_a_Competitive_Animal_in_the_Nineteenth_and_Early_Twentieth_Century) _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
 
 Levy, Ariel. "[Living-Room Leopards](http://www.newyorker.com/reporting/2013/05/06/130506fa_fact_levy)." _The New Yorker_, May 6, 2013.
 
