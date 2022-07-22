@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides reading notes for several lectures and readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Things to Think About
 uid: 580183fd-2a52-0727-5d9e-b486ee17fabe
 ---
 
-Several of the lectures and [readings]({{< baseurl >}}/pages/readings) have an accompanying set of questions for discussion and/or consideration.
+Several of the lectures and {{% resource_link 9bf9b92f-1f78-2ed7-d94a-6f2cb757ccc6 "readings" %}} have an accompanying set of questions for discussion and/or consideration.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -42,7 +45,7 @@ No questions
 Hunting
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Hunting (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes02)
+{{% resource_link 4bb401e3-6dd6-3bda-8e84-91af12b82da2 "Things to think About: Hunting (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +57,7 @@ Hunting
 Domestication and Breeding
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Domestication and Breeding (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes03)
+{{% resource_link 1f09cb00-7d6e-433a-9489-e3ce5d69d07a "Things to think About: Domestication and Breeding (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +69,7 @@ Domestication and Breeding
 Meat (or Not)
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Meat (or Not) (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes04)
+{{% resource_link 4af9e8cb-2ffa-2ac2-03eb-27a5c741719b "Things to think About: Meat (or Not) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +81,7 @@ Meat (or Not)
 Pets
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Pets (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes05)
+{{% resource_link 01c04227-a346-9612-fa1e-eef4e14f4d2c "Things to think About: Pets (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +93,7 @@ Pets
 Animal Experimentation
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Animal Experimentation (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes06)
+{{% resource_link 75f6e7ba-2c74-596a-37e2-7c485ad5f472 "Things to think About: Animal Experimentation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +105,7 @@ Animal Experimentation
 Animal Protection
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Animal Protection (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes07)
+{{% resource_link b8b6eaa6-6d15-fc61-af8d-afb4ab06671e "Things to think About: Animal Protection (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ No questions
 Animals and Invasion
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to Think About: Changes in the Land (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes09)
+{{% resource_link 8f5fd59f-8073-5004-44d1-4f9bb79389d5 "Things to Think About: Changes in the Land (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +177,7 @@ No questions
 Studying Animals: Field Observation and Ethology
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to Think About: Field Observation and Ethology (PDF)]({{< baseurl >}}/resources/mit21h_380f13_read_notes13)
+{{% resource_link 8cd1c18f-3c71-b8ad-66ab-6a801e4fe7a7 "Things to Think About: Field Observation and Ethology (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +189,7 @@ Studying Animals: Field Observation and Ethology
 Animals and Imagination
 {{< tdclose >}}
 {{< tdopen >}}
-[Things to think About: Animals and Imagination (PDF)]({{< baseurl >}}/resources/mit21h_380f13readnotes14_01)
+{{% resource_link c3fc4d8e-fe3f-3630-a814-20e55c3d101f "Things to think About: Animals and Imagination (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
