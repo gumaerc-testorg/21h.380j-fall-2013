@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding pets.
 file: /courses/21h-380j-people-and-other-animals-fall-2013/01c04227a3469612fa1eeef4e14f4d2c_MIT21H_380F13_read_notes05.pdf
+file_size: 128200
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

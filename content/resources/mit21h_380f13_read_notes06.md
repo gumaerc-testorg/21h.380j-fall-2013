@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding animal experimentation.
 file: /courses/21h-380j-people-and-other-animals-fall-2013/75f6e7ba2c74596a37e27c485ad5f472_MIT21H_380F13_read_notes06.pdf
+file_size: 140819
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
