@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding hunting.
 file: /courses/21h-380j-people-and-other-animals-fall-2013/4bb401e36dd63bda8e8491af12b82da2_MIT21H_380F13_read_notes02.pdf
+file_size: 784038
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
