@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding animals and imagination.
-file: /ol-ocw-studio-app/courses/21h-380j-people-and-other-animals-fall-2013/c3fc4d8efe3f3630a81420e55c3d101f_MIT21H_380F13ReadNotes14_01.pdf
+file: /courses/21h-380j-people-and-other-animals-fall-2013/c3fc4d8efe3f3630a81420e55c3d101f_MIT21H_380F13ReadNotes14_01.pdf
 file_size: 340824
 file_type: application/pdf
 learning_resource_types: []
