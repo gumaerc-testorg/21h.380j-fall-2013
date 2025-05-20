@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file is regarding colonial animal protection laws, 1873.
-file: /ol-ocw-studio-app/courses/21h-380j-people-and-other-animals-fall-2013/1fd82bd63bece5cd67b208401012f180_MIT21H_380F13_laws.pdf
+file: /courses/21h-380j-people-and-other-animals-fall-2013/1fd82bd63bece5cd67b208401012f180_MIT21H_380F13_laws.pdf
 file_size: 1518380
 file_type: application/pdf
 learning_resource_types:
