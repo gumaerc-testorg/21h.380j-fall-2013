@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to session 9.
-file: /courses/21h-380j-people-and-other-animals-fall-2013/8f5fd59f8073500444d14f9bb79389d5_MIT21H_380F13_read_notes09.pdf
+file: /ol-ocw-studio-app/courses/21h-380j-people-and-other-animals-fall-2013/8f5fd59f8073500444d14f9bb79389d5_MIT21H_380F13_read_notes09.pdf
 file_size: 600885
 file_type: application/pdf
 learning_resource_types: []
