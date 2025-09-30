@@ -28,4 +28,4 @@ Oral progress report to class due
 
 Session 15 — Final papers and presentations
 
-Resources for writing an annotated bibliography are available from the [Williams College Libraries](http://library.williams.edu/citing/annotated-bibliography.php).
+Resources for writing an annotated bibliography are available from the {{% resource_link "7da4bc55-e12c-4868-adda-a1ea752c27a4" "Williams College Libraries" %}}.
