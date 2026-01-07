@@ -90,7 +90,7 @@ Participation (including response papers)
 Things to Remember
 ------------------
 
-Written assignments should represent original and individual work. For a detailed discussion of what this means, see the "{{% resource_link "9e811fdf-199b-4b53-82b6-4f75b6ff4ae0" "Academic Integrity at MIT" %}}" handbook. 
+Written assignments should represent original and individual work. For a detailed discussion of what this means, see the "[Academic Integrity at MIT](http://web.mit.edu/academicintegrity/)" handbook. 
 
 Assignments are to be handed in on time. If an extension becomes necessary it should be requested ahead of the due date. Otherwise, lateness will be penalized.
 
